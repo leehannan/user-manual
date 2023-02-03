@@ -20,5 +20,8 @@ image::C:\Users\lee_h\OneDrive\Documents\ShareX\Screenshots\2023-01\dxdiag_VCjIZ
 
 [%collapsible]
 ====
-This content is only revealed when the user clicks the block title. This content is only revealed when the user clicks the block title. This content is only revealed when the user clicks the block title. This content is only revealed when the user clicks the block title.
+This content is only revealed when the user clicks the block title.
+This content is only revealed when the user clicks the block title.
+This content is only revealed when the user clicks the block title.
+This content is only revealed when the user clicks the block title.
 ====
