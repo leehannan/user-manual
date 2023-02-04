@@ -7,6 +7,8 @@ User manual
 
 == Introduction
 
+include::system-requirements.adoc[]
+
 **Amberg Tunnel 2.0 - Base** is the base module for creating the tunnel theoretical design, consisitng of sites, axes, tubes, shafts, and construction stages.
 
 ****
