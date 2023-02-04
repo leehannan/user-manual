@@ -7,32 +7,71 @@ User manual
 
 == Introduction
 
-With **Amberg Tunnel 2.0 - Base**, you can define projects for Amberg Geotechnics, Amberg Navigator, Amberg Profile, Amberg Tunnelscan, and Amberg Inspection. The main project structure consists of sites, headings, axes, and construction stages.
+**Amberg Tunnel 2.0 - Base** is the base module for creating the tunnel theoretical design, consisitng of sites, axes, tubes, shafts, and construction stages.
 
-[NOTE]
-====
-Please read this manual as well as the relevant Amberg Tunnel module manual(s).
+****
+Please read this manual as well as the relevant Amberg Tunnel module manual(s): Amberg Profile, Amberg Tunnelscan, Amberg Geotechnics, Amberg Navigator, Amberg Inspection.
+****
 
-.Module Manuals
-- Amberg Profile
-- Amberg Tunnelscan
-- Amberg Geotechnics
-- Amberg Inspection
+=== Module Overview
 
-====
+.Amberg Tunnel Base
+The base module for creating the tunnel theoretical design, consisitng of sites, axes, tubes, shafts, and construction stages.
 
-=== Title 2
+.Amberg Profile Basic
+For the management, analyses, and reporting of measured profiles.
 
-==== Title 3
+.Amberg Profile Plus
+Additional features to Amberg Profile Basic, including measured vs measured profile analysis.
 
-===== Title 4
+.Amberg Tunelscan Basic
+For the management, processing, analyses, and reporting of point clouds.
 
-====== Title 5
+.Amberg Tunnelscan Plus
+Additional features to Amberg Tunnelscan Basic, including measured vs measured point cloud analyis analysis.
 
-This is the first line.
+.Amberg Geotechnics Basic
+For the management, analysis, and representation
+of 3D geotechnical measurement data in a tunnel project.
+
+.Amberg Geotechnics Plus
+Additional features to Amberg Geotechnics Basic, including features to process force, pressure, temperature, boreholes, and extensometer data.
+
+.Amberg Tunnel Navigator
+For defining all work steps (tasks) to be carried out in the tunnel using Amberg Navigator Tablet.
+
+.Amberg Inspection
+For preparing an Amberg Tunnel inpsection project, including tools to manage georeferenced inspection images, inspection catalogues, and the ability to publish the project to Amberg Tunnel Cloud.
 
 .Module Overview
 image::module-overview.png[image]
+
+=== Software Licence Agreement
+The software licence agreement can be found link:https://ambergtechnologies.com/fileadmin/user_upload/amberg-technologies/downloads/Company/Amberg_Technologies_General_Terms_and_Conditions_of_Sale.pdf[here.]
+
+=== Installation
+
+.Recommended system requirements
+[frame=none]
+[grid=rows]
+[cols="1,2"]
+|===
+|Operating system
+|Microsoft® Windows® 10 (64-bit)
+
+|RAM
+|16 GB or more RAM
+
+|Hard disk space
+|SSD with minimum 100 GB of free disk space
+
+|CPU type
+|Multi-core, 3.0 gigahertz (GHz) or faster 64-bit (x64) processor
+
+|Graphics card
+|OpenGL 3.3 capable graphics card with 1 GB or greater graphics memory
+
+|===
 
 [%collapsible]
 ====
