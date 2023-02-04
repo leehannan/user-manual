@@ -31,7 +31,8 @@ Please read this manual as well as the relevant Amberg Tunnel module manual(s).
 
 This is the first line.
 
-image::dxdiag_VCjIZ0S8GT.png[image]
+.Module Overview
+image::module-overview.png[image]
 
 [%collapsible]
 ====
