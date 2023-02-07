@@ -36,8 +36,7 @@ Additional features to Amberg Tunnelscan Basic, including measured vs measured p
 For the management, analysis, and representation
 of 3D geotechnical measurement data in a tunnel project.
 
-.Amberg Geotechnics Plus
-Additional features to Amberg Geotechnics Basic, including features to process force, pressure, temperature, boreholes, and extensometer data.
+Amberg Geotechnics Plus:: Additional features to Amberg Geotechnics Basic, including features to process force, pressure, temperature, boreholes, and extensometer data.
 
 .Amberg Tunnel Navigator
 For defining all work steps (tasks) to be carried out in the tunnel using Amberg Navigator Tablet.
@@ -82,3 +81,5 @@ This content is only revealed when the user clicks the block title.
 This content is only revealed when the user clicks the block title.
 This content is only revealed when the user clicks the block title.
 ====
+
+video::R2LCJW45MvA[youtube]
