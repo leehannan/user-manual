@@ -45,8 +45,8 @@ NOTE: The folder will store all project-related files including automatically cr
 --
 . Browse into the new folder and enter a project file name (e.g., Project1.at2prj) and then select btn:[Save]
 
-.Video
-video::A9NmKhPYtNI&t[youtube, width=640]
+.Video overview of *Creating a project*
+video::A9NmKhPYtNI[youtube, width=640, height=360]
 
 == Adding a horizontal alignment
 
