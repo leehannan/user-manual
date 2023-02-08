@@ -1,85 +1,59 @@
-= Amberg Tunnel
-User manual
-:toc:
-:toc-placement: left
-:toclevels: 2
-:icons: font
+= Amberg Tunnel Exercises
+:experimental:
+:data-uri:
+:toc: left
+:sectnums:
 
-== Introduction
+== Creating a project
 
-include::system-requirements.adoc[]
-
-**Amberg Tunnel 2.0 - Base** is the base module for creating the tunnel theoretical design, consisitng of sites, axes, tubes, shafts, and construction stages.
-
-****
-Please read this manual as well as the relevant Amberg Tunnel module manual(s): Amberg Profile, Amberg Tunnelscan, Amberg Geotechnics, Amberg Navigator, Amberg Inspection.
-****
-
-=== Module Overview
-
-.Amberg Tunnel Base
-The base module for creating the tunnel theoretical design, consisitng of sites, axes, tubes, shafts, and construction stages.
-
-.Amberg Profile Basic
-For the management, analyses, and reporting of measured profiles.
-
-.Amberg Profile Plus
-Additional features to Amberg Profile Basic, including measured vs measured profile analysis.
-
-.Amberg Tunelscan Basic
-For the management, processing, analyses, and reporting of point clouds.
-
-.Amberg Tunnelscan Plus
-Additional features to Amberg Tunnelscan Basic, including measured vs measured point cloud analyis analysis.
-
-.Amberg Geotechnics Basic
-For the management, analysis, and representation
-of 3D geotechnical measurement data in a tunnel project.
-
-Amberg Geotechnics Plus:: Additional features to Amberg Geotechnics Basic, including features to process force, pressure, temperature, boreholes, and extensometer data.
-
-.Amberg Tunnel Navigator
-For defining all work steps (tasks) to be carried out in the tunnel using Amberg Navigator Tablet.
-
-.Amberg Inspection
-For preparing an Amberg Tunnel inpsection project, including tools to manage georeferenced inspection images, inspection catalogues, and the ability to publish the project to Amberg Tunnel Cloud.
-
-.Module Overview
-image::module-overview.png[image]
-
-=== Software Licence Agreement
-The software licence agreement can be found link:https://ambergtechnologies.com/fileadmin/user_upload/amberg-technologies/downloads/Company/Amberg_Technologies_General_Terms_and_Conditions_of_Sale.pdf[here.]
-
-=== Installation
-
-.Recommended system requirements
-[frame=none]
-[grid=rows]
-[cols="1,2"]
-|===
-|Operating system
-|Microsoft® Windows® 10 (64-bit)
-
-|RAM
-|16 GB or more RAM
-
-|Hard disk space
-|SSD with minimum 100 GB of free disk space
-
-|CPU type
-|Multi-core, 3.0 gigahertz (GHz) or faster 64-bit (x64) processor
-
-|Graphics card
-|OpenGL 3.3 capable graphics card with 1 GB or greater graphics memory
-
-|===
-
+. Launch Amberg Tunnel
+. Select menu:File[New project]
++
+--
+.Screenshot
 [%collapsible]
 ====
-This content is only revealed when the user clicks the block title.
-This content is only revealed when the user clicks the block title.
-This content is only revealed when the user clicks the block title.
-This content is only revealed when the user clicks the block title.
+image::file-new-project.png[]
 ====
+--
+. On the project wizard's *Introduction* screen, select btn:[Next]
++
+--
+.Screenshot
+[%collapsible]
+====
+image::new-project-introduction.png[]
+====
+-- 
+. On the *Basic project settings* screen, enter a project name and then select btn:[Next]
++
+--
+.Screenshot
+[%collapsible]
+====
+image::new-project-basic-project-settings.png[]
+====
+-- 
+. On the *Construction sites* screen, select btn:[Add]. Enter a site name and then select btn:[Next]
+. On the *Headings of construction site...* screen, select btn:[Add tube heading]. Enter a name, then select btn:[OK] and then btn:[Next]
+. On the *Customer information* screen, skip ahead by selecting btn:[Next]
+. On the *File path settings* screen, select image:button-search.png[search button] 
+. Browse to your Desktop (or location of your choice) and create a new folder.
++
+--
+NOTE: The folder will store all project-related files including automatically created subfolders and configuration files.
+--
+. Browse into the new folder and enter a project file name (e.g., Project1.at2prj) and then select btn:[Save]
 
-video::R2LCJW45MvA[youtube]
+.Video
+video::A9NmKhPYtNI&t[youtube, width=640]
+
+== Adding a horizontal alignment
+
+== Adding a vertical alignment
+
+== Creating a construction stage
+
+== Adding theoretical profiles
+
+== Adding theoretical sections
