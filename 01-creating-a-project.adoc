@@ -37,5 +37,9 @@ NOTE: The folder will store all project-related files including automatically cr
 --
 . Browse into the new folder and enter a project file name (e.g., Project1.at2prj) and then select btn:[Save]
 
+You have now created an empty project.
+The next step is to create the design information,
+starting with the horizontal alignment.
+
 .Video overview of *Creating a project*
 video::A9NmKhPYtNI[youtube, width=640, height=360]
