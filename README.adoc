@@ -3,7 +3,7 @@
 :data-uri:
 :toc: left
 :sectnums:
-:sectanchors:
+:sectlinks:
 
 == Creating a project
 
