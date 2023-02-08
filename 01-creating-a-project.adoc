@@ -33,7 +33,8 @@ image::01-new-project-basic-project-settings.png[]
 . Browse to your Desktop (or location of your choice) and create a new folder.
 +
 --
-NOTE: The folder will store all project-related files including automatically created subfolders and configuration files.
+[sidebar]
+The folder will store all project-related files including automatically created subfolders and configuration files.
 --
 . Browse into the new folder and enter a project file name (e.g., Project1.at2prj) and then select btn:[Save]
 
