@@ -1,0 +1,11 @@
+NOTE: This exercise is a continuation from the previous lesson(s).
+
+. In the Project tree, expand the *Construction* node and then the *Site* and *Tube* nodes
++
+--
+.Screenshot
+[%collapsible]
+====
+image::02-project-tree.png[]
+====
+--

@@ -11,18 +11,7 @@ include::01-creating-a-project.adoc[]
 
 == Adding a horizontal alignment
 
-NOTE: This exercise is a continuation from the previous lesson(s).
-
-. In the Project tree, expand the *Construction* node and then the *Site* and *Tube* nodes
-+
---
-.Screenshot
-[%collapsible]
-====
-image::project-tree.png[]
-====
---
-. 
+include::02-adding-a-horizontal-alignment.adoc[]
 
 == Adding a vertical alignment
 
