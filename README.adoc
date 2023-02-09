@@ -4,6 +4,7 @@
 :toc: left
 :sectnums:
 :sectlinks:
+:icons: font
 
 == Creating a project
 
@@ -20,3 +21,5 @@ include::02-adding-a-horizontal-alignment.adoc[]
 == Adding theoretical profiles
 
 == Adding theoretical sections
+
+TIP: This is a tip admonition.
