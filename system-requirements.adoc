@@ -1,6 +1,0 @@
-= System Requirements
-Lee Hannan
-
-This is requirement A.
-This is requirement B.
-This is requirement C.
