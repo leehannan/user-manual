@@ -1,3 +1,5 @@
+== Creating a project
+
 . Launch Amberg Tunnel
 . Select menu:File[New project]
 +
