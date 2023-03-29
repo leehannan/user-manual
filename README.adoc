@@ -8,16 +8,7 @@
 
 include::01-creating-a-project.adoc[]
 
-== Adding a horizontal alignment
-
 include::02-adding-a-horizontal-alignment.adoc[]
 
-== Adding a vertical alignment
-
-== Creating a construction stage
-
-== Adding theoretical profiles
-
-== Adding theoretical sections
 
 TIP: This is a tip admonition.
