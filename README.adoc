@@ -6,8 +6,6 @@
 :sectlinks:
 :icons: font
 
-== Creating a project
-
 include::01-creating-a-project.adoc[]
 
 == Adding a horizontal alignment
