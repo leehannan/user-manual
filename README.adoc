@@ -7,8 +7,6 @@
 :icons: font
 
 include::01-creating-a-project.adoc[]
-
 include::02-adding-a-horizontal-alignment.adoc[]
-
 
 TIP: This is a tip admonition.
